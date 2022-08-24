@@ -1,0 +1,72 @@
+
+#main_title
+{
+    
+    display: block;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+#login_box
+{
+    margin: auto;
+    padding: 5px;
+    display: block;
+    border: solid ;
+    border-color: black;
+    height: auto;
+    width: 40%;
+    text-align: center;
+    border-radius: 5px;
+    padding-bottom: 10px;
+
+}
+
+#pls-login
+{
+    margin-bottom: 35px;
+}
+
+.input_class 
+{
+    display: block ;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: larger;
+    height: auto;
+    font-size: inherit;
+    border: 1px solid back ;
+    padding: 3px;  
+    width: 90%;
+}
+
+#title_bar 
+{
+    background-color: black;
+
+    
+}
+
+#navbar-header-container
+{
+    font-size: 30px ;
+    color: white;
+    padding-top: 5px;
+}
+
+
+
+
+#login-button
+{
+    
+    margin: auto ;
+    display: block ;
+    align-items: center;
+    font-size: large;
+    padding: 0.5px 10px 0.5px 10px;
+}
+
